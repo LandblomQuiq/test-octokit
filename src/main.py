@@ -5,6 +5,10 @@ G_BODY_KEY = "body"
 G_URL_KEY = "url"
 G_MAX_MESSAGE_PARTS = 8
 
+
+quiq.strings.num2words(1234)
+
+
 AGENT = "Dash"
 
 ORG = "Quiq Silver Bikes"
