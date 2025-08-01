@@ -6,7 +6,7 @@ G_URL_KEY = "url"
 G_MAX_MESSAGE_PARTS = 8
 
 
-quiq.strings.num2words(1234)
+quiq.strings.num2words(222)
 
 
 AGENT = "Dash"
